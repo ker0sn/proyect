@@ -18,7 +18,29 @@ Y tambien si lo quieres probar por ti mismo y usarlo en tu servidor, te dejo el 
 
 │ ⪩・Aqui te dejo el link para agregar al bot: https://discord.com/oauth2/authorize?client_id=1234601188570435605&permissions=8&scope=bot
 
+
 ═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+═════════════════════════════════════════ LISTA DE COMANDOS ═════════════════════════════════════════
+
+El comando "$notice" que envia a tu servidor de discord una noticia sobre el medio ambiente.
+
+El comando "$tips" que envia a tu servidor de discord un consejo sobre como evitar la contaminacion en el planeta tierra.
+
+El comando "$videos" que envia a tu servidor de discord un video sobre el medio ambiente, la contaminacion, y el cambio climatico en el planeta tierra. 
+
+El comando "$book" que envia a tu servidor de discord un libro sobre el medioambiente junto a su link de compra.
+
+El comando "$git" que envia a tu servidor de discord el link del codigo en github del bot
+
+El comando "$hello" que envia a tu servidor de discord una breve introduccion sobre el bot
+
+El comando "$ubication" que envia a tu servidor de discord un mensaje donde tienes que seleccionar un pais, y te da una noticia sobre el calentamiento global o el medio ambiente sobre el pais que elegiste.
+
+ADVERTENCIA! TODOS LOS COMANDOS QUE VAYAS A USAR LOS TIENES QUE ESCRIBIR TAL Y COMO ESTAN ANOTADOS AQUI PARA NO GENERAR FALLAS! 
+
+══════════════════════════════════════════════════════════════════════════════════════════════════════
+ 
 
 Cuidemos nuestro planeta.
 
