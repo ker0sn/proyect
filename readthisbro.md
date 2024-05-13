@@ -19,9 +19,7 @@ Y tambien si lo quieres probar por ti mismo y usarlo en tu servidor, te dejo el 
 │ ⪩・Aqui te dejo el link para agregar al bot: https://discord.com/oauth2/authorize?client_id=1234601188570435605&permissions=8&scope=bot
 
 
-═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
-
-═════════════════════════════════════════ LISTA DE COMANDOS ═════════════════════════════════════════
+══════════════════════════════════ LISTA DE COMANDOS ══════════════════════════════════
 
  El comando "$notice" que envia a tu servidor de discord una noticia sobre el medio ambiente.
 
