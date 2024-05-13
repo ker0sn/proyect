@@ -3,9 +3,12 @@
 
 Te hablare un poco de mi bot, mi bot se llama: "our world is dying.." que en español significa "nuestro mundo esta mueriendo..". Mi bot se centra en todo lo que viene siendo el medioambiente actual y el cambio climatico. Las funciones principales de mi bot son:
 
-1) Ayudarte a con tips para cuidar el medioambiente y todo lo que nos rodea
-2) Recibir noticias sobre el medio ambiente
+1) Ayudarte a con tips para cuidar el medioambiente y todo lo que nos rodea.
+2) Recibir noticias sobre el medio ambiente.
 3) Si te interesan los libros y quieres aprender sobre el medioambiente etc etc etc, con un comando de mi bot puedes acceder a libros sobre el medio ambiente y sus links de compra.
+4) El bot te aporta videos para concientizar sobre el cuidado de nuestro planeta.
+ 
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
 Los dejo cordialmente invitados al server de discord sobre el medioambiente y el cambio climatico donde podras probar mi bot, discutir y hablar sobre el medio ambiente, aportar tips para cuidar nuestro planeta y mas!
 
