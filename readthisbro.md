@@ -12,13 +12,11 @@ Te hablare un poco de mi bot, mi bot se llama: "our world is dying.." que en esp
 
 Los dejo cordialmente invitados al server de discord sobre el medioambiente y el cambio climatico donde podras probar mi bot, discutir y hablar sobre el medio ambiente, aportar tips para cuidar nuestro planeta y mas!
 
-‖ ⪩・Aqui dejo el link: https://discord.gg/PN8s6utT
-‖
-‖ Y tambien si lo quieres probar por ti mismo y usarlo en tu servidor, te dejo el link para que lo puedas agregar a tu servidor!
-‖
-‖ ⪩・Aqui te dejo el link para agregar al bot: https://discord.com/oauth2/authorize?client_id=1234601188570435605&permissions=8&scope=bot
-‖
-‖ Lo dejare asi hasta ahora, ya que ese es el avance que llevo echo en mi proyecto, espero que lo disfrunten.
+│ ⪩・Aqui dejo el link: https://discord.gg/PN8s6utT
+
+Y tambien si lo quieres probar por ti mismo y usarlo en tu servidor, te dejo el link para que lo puedas agregar a tu servidor!
+
+│ ⪩・Aqui te dejo el link para agregar al bot: https://discord.com/oauth2/authorize?client_id=1234601188570435605&permissions=8&scope=bot
 
 ═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
